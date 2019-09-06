@@ -16,6 +16,12 @@
 # - divider: true  # Will insert a divider in the sidebar
 # - header: My Header  # Will insert a header with no link in the sidebar
 
+- title: My Book Shelf
+  url: /myintro
+  not_numbered: true
+
+- divider: true
+- header: Demo textbook
 
 - title: Home
   url: /intro
