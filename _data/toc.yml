@@ -26,8 +26,10 @@
 - title: Home
   url: /intro
   not_numbered: true
+  
 - title: Search
   search: true
+
 - title: Myintro
   url: /myintro
   not_numbered: true
