@@ -22,6 +22,9 @@
   not_numbered: true
 - title: Search
   search: true
+- title: Myintro
+  url: /myintro
+  not_numbered: true
 
 - title: Getting started
   url: /guide/01_overview
