@@ -28,7 +28,9 @@
     url: /Mybook/general_text_by_md
   - title: chart test
     url: /Mybook/Chapter_03_API
-
+  - title: interactive widget 
+    url: /Mybook/jupyter_interactive_widget
+    
 - divider: true
 - header: Demo textbook
 
