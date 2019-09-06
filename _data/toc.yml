@@ -20,6 +20,10 @@
   url: /myintro
   not_numbered: true
 
+- title: My Book Shelf2
+  url: /python_test
+  not_numbered: true
+
 - divider: true
 - header: Demo textbook
 
