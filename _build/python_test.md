@@ -4,13 +4,13 @@ redirect_from:
 interact_link: content/python_test.ipynb
 kernel_name: venv06
 has_widgets: false
-title: 'My Book Shelf2'
+title: 'My Book Shelf'
 prev_page:
-  url: /myintro.html
-  title: 'My Book Shelf'
+  url: 
+  title: ''
 next_page:
-  url: /intro.html
-  title: 'Home'
+  url: /python_test.html
+  title: 'My Book Shelf2'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 
