@@ -23,6 +23,11 @@
 - title: My Book Shelf2
   url: /python_test
   not_numbered: true
+  sections:
+  - title: general edit by typora
+    url: /Mybook/general_text_by_md
+  - title: chart test
+    url: /Mybook/Chapter_03_API
 
 - divider: true
 - header: Demo textbook
