@@ -20,6 +20,10 @@
   url: /python_test
   not_numbered: true
 
+- title: Book Git Test
+  url: /git_test
+  not_numbered: true
+
 - title: My Book Shelf2
   url: /python_test
   not_numbered: true
